@@ -1,3 +1,4 @@
 # Sorting_and_Hashing
-This project is intended to enhance your understanding of the underlying mechanisms and practical applications of sorting and hashing techniques. By engaging in analytical exploration and implementation, you will develop a comprehensive grasp of how these essential algorithms function and contribute to efficient data organization and retrieval.
+The primary objective of this project is to cultivate a profound understanding of the operational principles and real-world utilization of sorting and hashing methodologies. Through systematic experimentation and critical evaluation, participants will explore how these techniques underpin data management and computational efficiency in modern systems.
+
 
