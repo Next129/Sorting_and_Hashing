@@ -1,5 +1,5 @@
 # Sorting_and_Hashing
-This project seeks to provide learners with a rigorous understanding of sorting and hashing processes, emphasizing both their theoretical frameworks and practical applications. Through systematic practice and critical analysis, participants will uncover how these algorithms facilitate organized data handling and efficient computation.
+An extensive examination of sorting and hashing algorithms provides learners with the ability to understand their theoretical underpinnings and practical applications. Through structured exercises and critical evaluation, participants will appreciate how these techniques optimize data organization, retrieval, and algorithmic efficiency.
 
 
 
