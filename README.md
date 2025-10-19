@@ -1,2 +1,3 @@
 # Sorting_and_Hashing
-Through a focused examination of sorting techniques and hash table mechanisms, this project endeavors to deepen the learner’s intellectual engagement with core data organization paradigms, thereby fostering a more sophisticated and operational grasp of algorithmic efficiency and data retrieval strategies.
+This project is intended to enhance your understanding of the underlying mechanisms and practical applications of sorting and hashing techniques. By engaging in analytical exploration and implementation, you will develop a comprehensive grasp of how these essential algorithms function and contribute to efficient data organization and retrieval.
+
